@@ -9,7 +9,7 @@ import Settings from './Settings'
 
 // import ledgerLogo from './ledgerLogo.png'
 // import trezorLogo from './trezorLogo.png'
-import gridPlusLogo from "../../main/Add/AddHardwareLattice/grid.png";
+import gridPlusLogo from "../../Main/Add/AddHardwareLattice/grid.png";
 
 // TODO: Rename Signer component to Account
 
